@@ -1,0 +1,19 @@
+{
+    "name": "Youtube Volume Controller",
+    "description": "Boosts Youtube video volume",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icons/logo16.png",
+        "32": "icons/logo32.png",
+        "128": "icons/logo128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions":[
+        "scripting",
+        "activeTab"
+    ],
+    "background": {}
+}
