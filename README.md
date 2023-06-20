@@ -10,6 +10,12 @@
 # Amp.io
 HTML 5 video volume booster extension made with basic HTML, CSS and Vanilla Javascript.
 
+# How to Install 🤔?
+1) Clone the package and open Chrome.
+2) Visit chrome://extensions/ and turn on "Developer mode".
+3) Click the "Load unpacked" button and navigate to the folder where you have cloned the package.
+4) Sit back and enjoy your videos at boosted volume.
+
 ## Dev Logs
 20/06/23 - First prototype is completed. It has one-time functionality and needs some refinement to update gain/boost value. A workaround is to refresh the page and set the boost value once again.
 
